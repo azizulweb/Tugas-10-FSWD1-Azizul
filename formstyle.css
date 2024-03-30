@@ -1,0 +1,47 @@
+body {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    background-image: url('images/bgcoffe.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+.h1 {
+    color: rgb(197, 197, 196);
+}
+
+.h1 b {
+    color: rgba(116, 83, 35, 0.829);
+}
+
+.card-body {
+    background-color: rgba(44, 30, 5, 0.89)
+}
+
+.card-header {
+    background-color:  rgb(117, 113, 108);;
+}
+
+.card-outline {
+    background-color: rgba(29, 30, 31, 0.8);
+    box-shadow: 3px 3px 6px 0.8px rgba(12, 15, 4, 0.774);
+}
+
+.font-box {
+    color: white;
+}
+
+.login-box-msg {
+    color: white;   
+}
+
+.font-box a {
+    color: rgb(240, 193, 75);
+}
+
+.text-center {
+    color: rgb(240, 193, 75);
+}

@@ -1,0 +1,25 @@
+.bg-caffe {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    background-image: url(images/111\ \(1\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    font-family: 'Poppins', sans-serif;
+}
+h1 {
+    color: rgba(58, 41, 3, 0.644);
+}
+
+h1 span {
+     color:  rgb(238, 159, 13);;
+}
+
+.nav-link {
+    color: white;
+
+}
+
+/* navbar */

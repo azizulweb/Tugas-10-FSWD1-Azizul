@@ -1,0 +1,35 @@
+body {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    background-color: aliceblue;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    font-family: 'Poppins', sans-serif;
+ }
+
+ .content-wrapper {
+    background-image: url(images/bgcoffe.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+ }
+
+ .m-0 {
+    color: white;
+ }
+
+ .nav-item .dropdown {
+    color: aliceblue;
+ }
+ 
+ .nav-link a {
+   color: aliceblue;
+ }
+
+.main-footer {
+   background-color: rgb(14, 13, 13);
+}

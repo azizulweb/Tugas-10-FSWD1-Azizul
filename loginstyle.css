@@ -1,0 +1,23 @@
+body {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    background-image: url('images/111\ \(1\).jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;/
+}
+
+.card-body {
+    background-color: rgb(238, 159, 13);
+    box-shadow: 3px 3px 6px 0.8px rgba(12, 15, 4, 0.774);
+}
+
+.h1 {
+    color: rgba(238, 159, 13, 0.733);
+}
+
+.h1 b {
+    color:  rgb(56, 25, 05);
+}

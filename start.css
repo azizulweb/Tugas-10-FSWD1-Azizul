@@ -1,0 +1,24 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.container-fluid {
+    width: 100%;
+    /* Ukuran gambar */
+    height: 100%;
+    /* Ukuran gambar */
+ 
+    /* Memastikan gambar tidak keluar dari batas kontainer */
+   
+}
+
+.profile {
+    width: 250px;
+    /* Mengisi lebar kontainer */
+    /* height: 380px; */
+    /* Mengisi tinggi kontainer */
+    object-fit: cover;
+    /* Memastikan gambar tidak terdistorsi */
+    border-radius: 80%;
+    overflow: hidden;
+}
